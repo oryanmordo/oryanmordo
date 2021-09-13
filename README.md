@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, you've reached Oryan's GitHub!
+### You are welcome look around.
 
 <!--
 **oryanmordo/oryanmordo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
