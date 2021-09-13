@@ -1,6 +1,6 @@
-# Hi, you've reached Oryan's Git!
-# I'm not in right now, please leave a [message](mailto:oryan.mordo@gmail.com).
+# Hi, you've reached Oryan's Git! <br>I'm not in right now, please leave a [message](mailto:oryan.mordo@gmail.com).
 
+<img src="https://media-exp1.licdn.com/dms/image/C4D16AQEwFcVXe1nhRQ/profile-displaybackgroundimage-shrink_350_1400/0/1608750937235?e=1637193600&v=beta&t=Vtz4ok3auoFMLM9Ib01TFM7ksEe_IpGIwBh_sOcDqRc" alt="Oryan's GitHub">
 
 <!--
 **oryanmordo/oryanmordo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
