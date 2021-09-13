@@ -1,5 +1,6 @@
-### Hi there, you've reached Oryan's GitHub!
-### You are welcome look around.
+# Hi, you've reached Oryan's Git!
+# I'm not in right now, please leave a [message](mailto:oryan.mordo@gmail.com).
+
 
 <!--
 **oryanmordo/oryanmordo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
