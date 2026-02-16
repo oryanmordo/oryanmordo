@@ -1,0 +1,100 @@
+\documentclass[11pt,a4paper,sans]{moderncv}
+
+% ModernCV themes
+\moderncvstyle{banking} % Options: 'casual', 'classic', 'oldstyle', 'banking'
+\moderncvcolor{blue}    % Options: 'blue', 'orange', 'green', 'red', 'purple', 'grey'
+
+% Character encoding
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc} % Best practice for modern fonts
+\usepackage{lmodern}    % FIXES THE FONT WARNING
+
+% Adjust the page margins
+\usepackage[scale=0.85, top=2cm]{geometry}
+
+% Personal data
+\name{Oryan}{Mordoch} 
+\title{Software Engineer}
+\address{Israel}{Tel Aviv} 
+\phone[mobile]{(+972) 52-585-6562}
+\email{oryan.mordo@gmail.com}
+\social[linkedin]{oryan-mordoch}
+% \social[github]{yourgithub} % Add if you have one
+
+% --- PREAMBLE BLOCK FOR COMPILATION STABILITY ---
+\usepackage[english]{babel}
+\usepackage{enumitem}
+\setlist[itemize]{label=\textbullet, nosep, leftmargin=*}
+% ------------------------------------------------
+
+\begin{document}
+
+%--- Make the header ---
+\makecvtitle
+
+%--- Summary ---
+\vspace*{-2.9em}
+\begin{center}
+    \begin{minipage}{0.9\textwidth}
+        \small\centering
+        Ex-Microsoft Software Engineer and Ben Gurion University graduate currently driving critical infrastructure at Unit Ofek324. Specialized in designing large-scale distributed systems, Java-based microservices, and modern DevOps practices. Proven track record in architectural modernization, disaster recovery planning, and mentoring engineering teams.
+    \end{minipage}
+\end{center}
+% \vspace*{0.1em}
+
+%--- Experience ---
+\section{Professional Experience}
+
+\cventry{Jan 2024 -- Present}{Backend Software Engineer}{Ofek324 (IAF - Data Team)}{Tel Aviv}{}{
+    \begin{itemize}
+        \item \textbf{Architecture \& High Availability:} Designed and implemented an Active-Active Disaster Recovery (DR) architecture for critical CI/CD infrastructure, ensuring zero-downtime availability for mission-critical systems.
+        \item \textbf{Legacy Modernization:} Led the end-to-end modernization of legacy systems, upgrading services from Java 8/11 to Java 21 within a Spring Boot environment, significantly improving performance and maintainability.
+        \item \textbf{DevOps Orchestration:} Built and maintained robust CI/CD pipelines utilizing Jenkins, Docker, Kubernetes (K8s), Helm, and OpenShift, streamlining deployment processes across environments.
+        \item \textbf{Monitoring \& Observability:} Designed a comprehensive monitoring ecosystem using Prometheus and Grafana for health tracking, and implemented custom Spring Boot alerts integrated with Splunk.
+        \item \textbf{Mentorship:} Mentored junior developers, establishing code review protocols, enforcing best practices, and fostering a culture of professional growth.
+        \item \textit{Clearance:} Hold Security Clearance Level 2, authorized for sensitive military systems.
+    \end{itemize}
+}
+
+\vspace*{0.5em}
+
+\cventry{Jan 2022 -- Dec 2023}{Backend Software Engineer Intern}{Microsoft R\&D}{Tel Aviv}{}{
+\textit{Transitioned to full-time capacity for the final 14 months (Nov 2022 -- Dec 2023).}
+    \begin{itemize}
+        \item \textbf{Enterprise Development:} Developed and maintained features for one of the world's largest global compliance products, utilizing Java and Spring Boot to handle high-scale data loads.
+        \item \textbf{Internal Tooling:} Python-engineered automation tools to analyze user needs and usage patterns, enabling data-driven decisions for internal resource management and capacity planning.
+        \item Collaborated in an Agile environment to deliver production-grade code that adheres to strict quality standards.
+    \end{itemize}
+}
+
+\vspace*{0.5em}
+
+\cventry{Aug 2021 -- Jan 2022}{R\&D Support Student (Data Analyst)}{Morphisec}{Be'er Sheva}{}{
+    \begin{itemize}
+        \item \textbf{Data Analysis:} Conducted research and data analysis on security products using Python and Power BI to identify trends and anomalies.
+        \item \textbf{Database Design:} Planned and designed a new database schema that was successfully implemented into the core company product to optimize data storage.
+    \end{itemize}
+}
+
+%--- Education ---
+\section{Education}
+\cventry{Oct 2019 -- Sept 2023}{B.Sc. in Computer Science}{Ben Gurion University of the Negev}{Beer Sheva}{}{}
+
+%--- Skills ---
+\section{Technical Skills}
+\begin{itemize}
+    \item \textbf{Languages:} Java, Python3, Groovy, Shell/Bash, TypeScript, SQL.
+    \item \textbf{Frameworks \& Libraries:} Spring Boot, Gradle, React.
+    \item \textbf{DevOps \& Cloud:} Kubernetes, OpenShift, Docker, Jenkins, Helm, Nexus, Artifactory.
+    \item \textbf{Databases \& Storage:} AWS S3, OracleDB, MongoDB, MySQL.
+    \item \textbf{Monitoring:} Prometheus, Grafana, Splunk.
+\end{itemize}
+
+% --- LANGUAGES ---
+\section{Languages}
+\begin{itemize}
+    \item \textbf{Hebrew:} Native
+    \item \textbf{English:} Fluent 
+\end{itemize}
+
+\end{document}
