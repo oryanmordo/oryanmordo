@@ -10,6 +10,7 @@ Ex-Microsoft Software Engineer and Ben Gurion University graduate currently driv
 
 ### 🛠 Technical Skills
 * **Languages:** `Java`, `Python 3`, `Groovy`, `Shell/Bash`, `TypeScript`, `SQL`
+* **AI Pair Programming:** `Cursor`, `Cline`, `Roo`, `Gemini CLI`, `GitHub CoPilot`, `Claude Code`
 * **Frameworks & Libraries:** `Spring Boot`, `Gradle`, `React`
 * **DevOps & Cloud:** `Kubernetes`, `OpenShift`, `Docker`, `Jenkins`, `Helm`, `Nexus`, `Artifactory`
 * **Databases & Storage:** `AWS S3`, `OracleDB`, `MongoDB`, `MySQL`
