@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 Profile
-Ex-Microsoft Software Engineer and Ben Gurion University graduate currently driving critical infrastructure at **Unit Ofek324**. Specialized in designing large-scale distributed systems, Java-based microservices, and modern DevOps practices. Proven track record in architectural modernization, disaster recovery planning, and mentoring engineering teams.
+Ex-Microsoft Software Engineer and Ben Gurion University graduate currently driving critical infrastructure at **Unit Ofek324** (DataTeam). Specialized in designing large-scale distributed systems, Java-based microservices, and modern DevOps practices. Proven track record in architectural modernization, disaster recovery planning, and mentoring engineering teams.
 
 ---
 
