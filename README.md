@@ -30,7 +30,7 @@ Ex-Microsoft Software Engineer and Ben Gurion University graduate currently driv
 * *Security Clearance: Level 2.*
 
 #### **Backend Software Engineer Intern** | Microsoft R&D
-*Jan 2021 – July 2023 | Tel Aviv*
+*Oct 2021 – July 2023 | Tel Aviv*
 * **Enterprise Development:** Developed features for a global compliance product at scale using **Java and Spring Boot**.
 * **Internal Tooling:** Engineered **Python** automation tools to analyze usage patterns for data-driven capacity planning.
 * **Agile Collaboration:** Delivered production-grade code adhering to strict global quality standards.
