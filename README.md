@@ -30,14 +30,13 @@ Ex-Microsoft Software Engineer and Ben Gurion University graduate currently driv
 * *Security Clearance: Level 2.*
 
 #### **Backend Software Engineer Intern** | Microsoft R&D
-*Jan 2022 – Dec 2023 | Tel Aviv*
-> *Transitioned to full-time capacity for the final 14 months (Nov 2022 – Dec 2023).*
+*Jan 2021 – July 2023 | Tel Aviv*
 * **Enterprise Development:** Developed features for a global compliance product at scale using **Java and Spring Boot**.
 * **Internal Tooling:** Engineered **Python** automation tools to analyze usage patterns for data-driven capacity planning.
 * **Agile Collaboration:** Delivered production-grade code adhering to strict global quality standards.
 
 #### **R&D Support Student (Data Analyst)** | Morphisec
-*Aug 2021 – Jan 2022 | Be'er Sheva*
+*Aug 2021 – Dec 2021 | Be'er Sheva*
 * **Data Analysis:** Conducted research on security products using **Python and Power BI** to identify trends.
 * **Database Design:** Planned and designed a new database schema successfully implemented into the core product.
 
@@ -45,7 +44,7 @@ Ex-Microsoft Software Engineer and Ben Gurion University graduate currently driv
 
 ### 🎓 Education
 **B.Sc. in Computer Science** | Ben Gurion University of the Negev
-*2019 – 2023 | Beer Sheva*
+* Oct 2019 – April 2024 | Beer Sheva*
 
 ---
 
